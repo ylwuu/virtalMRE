@@ -1,0 +1,57 @@
+No valid files found:
+
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\LICENSE
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\MLDropTarget.class
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\README.md
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\RT_moco.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\anonymize_dicm.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dd.exe
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm2nii.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm_dict.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm_hdr.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm_img.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm_save.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicom_2_nifiti_DEMO.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\example_data.mat
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\functionSignatures.json
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\java_dnd.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_moco.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_stc.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_tool.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_viewer.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_xform.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\pigz
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\pigz.exe
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\pthreadGC2.dll
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\rename_dicm.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\write_tsv.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\xml2par.m.
+No valid files found:
+
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\LICENSE
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\MLDropTarget.class
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\README.md
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\RT_moco.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\anonymize_dicm.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dd.exe
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm2nii.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm2nii_warningMsg.txt
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm_dict.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm_hdr.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm_img.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicm_save.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\dicom_2_nifiti_DEMO.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\example_data.mat
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\functionSignatures.json
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\java_dnd.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_moco.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_stc.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_tool.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_viewer.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\nii_xform.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\pigz
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\pigz.exe
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\pthreadGC2.dll
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\rename_dicm.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\write_tsv.m
+Unknown file type: D:\MATLAB Code\Diffusion\CTRW\DCM2NII_Matlab\xml2par.m.

@@ -1,0 +1,226 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="1511843456" file="D:\MATLAB Code\Virtual_MRE\vMRE_GUI\vMRE.prj" location="D:\MATLAB Code\Virtual_MRE\vMRE_GUI" name="vMRE" preferred-package-location="D:\MATLAB Code\Virtual_MRE\vMRE_GUI\vMRE\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>vMRE_ALPHA</param.appname>
+    <param.icon />
+    <param.icons />
+    <param.version>1.0.8</param.version>
+    <param.authnamewatermark />
+    <param.email />
+    <param.company />
+    <param.summary />
+    <param.description />
+    <param.screenshot />
+    <param.guid />
+    <param.installpath.string>\vMRE_ALPHA\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo />
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>${PROJECT_ROOT}\vMRE\for_testing</param.intermediate>
+    <param.files.only>${PROJECT_ROOT}\vMRE\for_redistribution_files_only</param.files.only>
+    <param.output>${PROJECT_ROOT}\vMRE\for_redistribution</param.output>
+    <param.logdir>${PROJECT_ROOT}\vMRE</param.logdir>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>false</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>MyAppInstaller_web</param.web.mcr.name>
+    <param.package.mcr.name>MyAppInstaller_mcr</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>false</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <param.native.matlab>false</param.native.matlab>
+    <param.checkbox>false</param.checkbox>
+    <param.example />
+    <param.help.text>Syntax 
+	  -? 
+	 
+ Input Arguments 
+	 -?  print help on how to use the application 
+	 input arguments</param.help.text>
+    <unset>
+      <param.icon />
+      <param.icons />
+      <param.authnamewatermark />
+      <param.email />
+      <param.company />
+      <param.summary />
+      <param.description />
+      <param.screenshot />
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.logo />
+      <param.install.notes />
+      <param.target.install.notes />
+      <param.intermediate />
+      <param.files.only />
+      <param.output />
+      <param.logdir />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.package.mcr />
+      <param.no.mcr />
+      <param.web.mcr.name />
+      <param.package.mcr.name />
+      <param.no.mcr.name />
+      <param.create.log />
+      <param.log.file />
+      <param.native.matlab />
+      <param.checkbox />
+      <param.example />
+    </unset>
+    <fileset.main>
+      <file>${PROJECT_ROOT}\vMRE.mlapp</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\affine.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\bipolar.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\bresenham_line3d.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\clip_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\collapse_nii_scan.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\examples.txt</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\expand_nii_scan.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\extra_nii_hdr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\flip_lr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\get_nii_frame.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\license.txt</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_nii_ext.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_nii_hdr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_nii_img.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_untouch0_nii_hdr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_untouch_header_only.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_untouch_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_untouch_nii_hdr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\load_untouch_nii_img.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\make_ana.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\make_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\mat_into_hdr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\pad_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\reslice_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\rri_file_menu.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\rri_orient.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\rri_orient_ui.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\rri_select_file.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\rri_xhair.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\rri_zoom_menu.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\save_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\save_nii_ext.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\save_nii_hdr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\save_untouch0_nii_hdr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\save_untouch_header_only.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\save_untouch_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\save_untouch_nii_hdr.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\save_untouch_slice.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\unxform_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\verify_nii_ext.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\view_nii.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\view_nii_menu.m</file>
+      <file>${MATLAB_ROOT}\toolbox\NIfTI_20140122\xform_nii.m</file>
+      <file>${PROJECT_ROOT}\adjustIntensityRangeGui.fig</file>
+      <file>${PROJECT_ROOT}\adjustIntensityRangeGui.m</file>
+      <file>${PROJECT_ROOT}\anonymize_dicm.m</file>
+      <file>${PROJECT_ROOT}\dd.exe</file>
+      <file>${PROJECT_ROOT}\dicm2nii.m</file>
+      <file>${PROJECT_ROOT}\dicm2nii_warningMsg.txt</file>
+      <file>${PROJECT_ROOT}\dicm_dict.m</file>
+      <file>${PROJECT_ROOT}\dicm_hdr.m</file>
+      <file>${PROJECT_ROOT}\dicm_img.m</file>
+      <file>${PROJECT_ROOT}\dicm_save.m</file>
+      <file>${PROJECT_ROOT}\dicom_2_nifiti_DEMO.m</file>
+      <file>${PROJECT_ROOT}\functionSignatures.json</file>
+      <file>${PROJECT_ROOT}\imlook3d.fig</file>
+      <file>${PROJECT_ROOT}\imlook3d.m</file>
+      <file>${PROJECT_ROOT}\imlook3d.png</file>
+      <file>${PROJECT_ROOT}\java_dnd.m</file>
+      <file>${PROJECT_ROOT}\linearfit_vMRE_other_Tissues.m</file>
+      <file>${PROJECT_ROOT}\MLDropTarget.class</file>
+      <file>${PROJECT_ROOT}\nii_moco.m</file>
+      <file>${PROJECT_ROOT}\nii_stc.m</file>
+      <file>${PROJECT_ROOT}\nii_tool.m</file>
+      <file>${PROJECT_ROOT}\nii_viewer.m</file>
+      <file>${PROJECT_ROOT}\nii_xform.m</file>
+      <file>${PROJECT_ROOT}\pigz</file>
+      <file>${PROJECT_ROOT}\pigz.exe</file>
+      <file>${PROJECT_ROOT}\pthreadGC2.dll</file>
+      <file>${PROJECT_ROOT}\README.md</file>
+      <file>${PROJECT_ROOT}\rename_dicm.m</file>
+      <file>${PROJECT_ROOT}\RT_moco.m</file>
+      <file>${PROJECT_ROOT}\sort_dicm.m</file>
+      <file>${PROJECT_ROOT}\write_tsv.m</file>
+      <file>${PROJECT_ROOT}\xml2par.m</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}\vMRE\for_testing" name="vMRE_ALPHA.exe" optional="false">D:\MATLAB Code\Virtual_MRE\vMRE_GUI\vMRE\for_testing\vMRE_ALPHA.exe</file>
+      <file location="${PROJECT_ROOT}\vMRE\for_testing" name="splash.png" optional="false">D:\MATLAB Code\Virtual_MRE\vMRE_GUI\vMRE\for_testing\splash.png</file>
+      <file location="${PROJECT_ROOT}\vMRE\for_testing" name="readme.txt" optional="true">D:\MATLAB Code\Virtual_MRE\vMRE_GUI\vMRE\for_testing\readme.txt</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2021b</root>
+      <toolboxes>
+        <toolbox name="matlabcoder" />
+        <toolbox name="embeddedcoder" />
+        <toolbox name="gpucoder" />
+        <toolbox name="fixedpoint" />
+        <toolbox name="matlabhdlcoder" />
+        <toolbox name="neuralnetwork" />
+      </toolboxes>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <gpucoder>
+          <enabled>true</enabled>
+        </gpucoder>
+      </toolbox>
+      <toolbox>
+        <fixedpoint>
+          <enabled>true</enabled>
+        </fixedpoint>
+      </toolbox>
+      <toolbox>
+        <matlabhdlcoder>
+          <enabled>true</enabled>
+        </matlabhdlcoder>
+      </toolbox>
+      <toolbox>
+        <neuralnetwork>
+          <enabled>true</enabled>
+        </neuralnetwork>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
